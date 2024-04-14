@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pets</string>
+    <string name="add_pet">Add Pet</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="delete_dummy_data">Delete Dummy Data</string>
+    <string name="overview">Overview:</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_breed">Breed</string>
+    <string name="gender">Gender:</string>
+    <string name="measurement">Measurement:</string>
+    <string name="hint_weight">Weight</string>
+    <string name="save">Save\n</string>
+    <string name="delete">Delete</string>
+    <string name="editor_activity_title_new_pet">Add a pet</string>
+
+    <string-array name="gender_array_spinner">
+        <item>Unknown</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
